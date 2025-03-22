@@ -7,7 +7,7 @@ Este proyecto permite registrar nombres y notas de estudiantes, almacenar la inf
 
 1.Clona el repositorio (o descarga el código):
 
-git clone https://github.com/StevenRG04/Examen_NT.git
+git clone [https://github.com/StevenRG04/Examen_NT.git](https://github.com/StevenRG04/StevenRG04-Evaluaci_n_Primer-Momento.git)
 
 2.Crea y activa un entorno virtual (recomendado):
 
